@@ -1,0 +1,20 @@
+body{
+   background-color: rgb(216, 95, 95);
+  Color: rgb                “ for font color
+  Font-family: Font:
+
+  }
+/**The color for the title**/
+  h1{
+    color: aqua;
+  }
+/**The color for the heading**/
+  h2{color: antiquewhite;}
+/**The color for the paragraph**/
+  p{color: azure;}
+/**The color for the link**/
+  a{color: azure;}
+/**The boarder and color**/
+  img{
+   border: 20px solid silver;
+  }
